@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Intern-movie/static/css/main.073c9b0a.css",
+    "main.js": "/Intern-movie/static/js/main.c304064c.js",
+    "static/js/787.e253fc0a.chunk.js": "/Intern-movie/static/js/787.e253fc0a.chunk.js",
+    "index.html": "/Intern-movie/index.html",
+    "main.073c9b0a.css.map": "/Intern-movie/static/css/main.073c9b0a.css.map",
+    "main.c304064c.js.map": "/Intern-movie/static/js/main.c304064c.js.map",
+    "787.e253fc0a.chunk.js.map": "/Intern-movie/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c304064c.js"
+  ]
+}
